@@ -1,0 +1,21 @@
+{
+  "name": "atmin",
+  "displayName": "atmin",
+  "description": "high contrast minimal theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Atmin High Contrast Theme",
+        "uiTheme": "hc-black",
+        "path": "./themes/Atmin High Contrast Theme-color-theme.json"
+      }
+    ]
+  }
+}
