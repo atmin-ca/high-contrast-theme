@@ -1,7 +1,12 @@
 {
   "name": "atmin",
   "displayName": "atmin",
+  "publisher": "atmin-technologies-inc",
   "description": "high contrast minimal theme",
+  "repository": {
+        "type": "git",
+        "url": "https://github.com/atmin-ca/high-contrast-theme"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.96.0"
